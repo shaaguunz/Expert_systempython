@@ -1,0 +1,5 @@
+asthma
+birdflu
+corona
+diabetes
+tuberclosis
